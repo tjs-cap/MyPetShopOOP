@@ -1,4 +1,4 @@
-public class Program {
+public class DemoCalculator {
     public static void main(String[] args) {
         Calculator calc = new Calculator();
         calc.num1 = 2.1;
