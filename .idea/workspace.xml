@@ -4,15 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e477d340-857e-4c84-9a2e-5dd798927c95" name="Changes" comment="Removed previous classes and added classes Pet, Dog and Program">
-      <change afterPath="$PROJECT_DIR$/src/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BorderCollie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Fly.java" afterDir="false" />
+    <list default="true" id="e477d340-857e-4c84-9a2e-5dd798927c95" name="Changes" comment="Added some more classes, set pet to Abstract, and added a couple of interfaces">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bird.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cat.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dog.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Pet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Program.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +84,8 @@
       <updated>1669296017764</updated>
       <workItem from="1669296019141" duration="6745000" />
       <workItem from="1669377888047" duration="633000" />
-      <workItem from="1669636420061" duration="8613000" />
+      <workItem from="1669636420061" duration="9382000" />
+      <workItem from="1669649279746" duration="1073000" />
     </task>
     <task id="LOCAL-00001" summary="Modified methods in the Program class to function correctly with the Pets class (object p).">
       <created>1669303764218</created>
@@ -110,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669644173948</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added some more classes, set pet to Abstract, and added a couple of interfaces">
+      <created>1669647876091</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1669647876091</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,6 +135,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Modified methods in the Program class to function correctly with the Pets class (object p)." />
     <MESSAGE value="Removed previous classes and added classes Pet, Dog and Program" />
-    <option name="LAST_COMMIT_MESSAGE" value="Removed previous classes and added classes Pet, Dog and Program" />
+    <MESSAGE value="Added some more classes, set pet to Abstract, and added a couple of interfaces" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added some more classes, set pet to Abstract, and added a couple of interfaces" />
   </component>
 </project>

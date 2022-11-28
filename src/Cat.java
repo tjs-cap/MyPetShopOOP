@@ -1,4 +1,4 @@
-public class Cat extends Pet implements Walk{
+public class Cat extends Pet implements Walk {
     private String breed;
 
     public Cat(String name, int age, String breed) {
