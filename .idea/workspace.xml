@@ -4,13 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e477d340-857e-4c84-9a2e-5dd798927c95" name="Changes" comment="Modified methods in the Program class to function correctly with the Pets class (object p).">
+    <list default="true" id="e477d340-857e-4c84-9a2e-5dd798927c95" name="Changes" comment="Removed previous classes and added classes Pet, Dog and Program">
+      <change afterPath="$PROJECT_DIR$/src/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BorderCollie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fly.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Calculator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DemoCalculator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LikePets.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pets.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Program.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Program.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,11 +24,15 @@
       <list>
         <option value="Record" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Bird.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -81,7 +87,7 @@
       <updated>1669296017764</updated>
       <workItem from="1669296019141" duration="6745000" />
       <workItem from="1669377888047" duration="633000" />
-      <workItem from="1669636420061" duration="4971000" />
+      <workItem from="1669636420061" duration="8613000" />
     </task>
     <task id="LOCAL-00001" summary="Modified methods in the Program class to function correctly with the Pets class (object p).">
       <created>1669303764218</created>
@@ -90,7 +96,21 @@
       <option name="project" value="LOCAL" />
       <updated>1669303764218</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Removed previous classes and added classes Pet, Dog and Program">
+      <created>1669643999328</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1669643999328</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Removed previous classes and added classes Pet, Dog and Program">
+      <created>1669644173948</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1669644173948</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,6 +129,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Modified methods in the Program class to function correctly with the Pets class (object p)." />
-    <option name="LAST_COMMIT_MESSAGE" value="Modified methods in the Program class to function correctly with the Pets class (object p)." />
+    <MESSAGE value="Removed previous classes and added classes Pet, Dog and Program" />
+    <option name="LAST_COMMIT_MESSAGE" value="Removed previous classes and added classes Pet, Dog and Program" />
   </component>
 </project>

@@ -1,12 +1,18 @@
 public class Dog extends Pet {
-    private String breed;
-
-    public Dog(String name, int age, String breed) {
+    public Dog(String name, int age) {
         super(name, age);
-        this.breed = breed;
+
     }
 
     public void dig(){
         System.out.println(getName() + " digs a hole!");
+    }
+
+    public void makeSound(){
+        System.out.println("Woof! Woof!");
+    }
+
+    public void eats(){
+        System.out.println("Nom nom nom!");
     }
 }

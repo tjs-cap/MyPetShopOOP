@@ -1,4 +1,4 @@
-public class Pet {
+public abstract class Pet {
 
     private String name;
     private int age;
@@ -23,4 +23,6 @@ public class Pet {
     public void makeSound(){
         System.out.println("Hmph!");
     }
+
+    abstract public void eats();
 }
